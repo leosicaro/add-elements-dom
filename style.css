@@ -1,0 +1,27 @@
+*{
+    list-style: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8f564a5-3c5b-4ee8-bb76-f3a2c6c9dc04/df92qo9-7809e262-6d98-4c1b-9518-f797c220af21.jpg/v1/fill/w_1920,h_1080,q_75,strp/windows_xp_bliss_wallpaper___4k_by_therealschlendi_df92qo9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Q4ZjU2NGE1LTNjNWItNGVlOC1iYjc2LWYzYTJjNmM5ZGMwNFwvZGY5MnFvOS03ODA5ZTI2Mi02ZDk4LTRjMWItOTUxOC1mNzk3YzIyMGFmMjEuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IdsVso-R40WR18WsXV_mmIkdYTD7dXmNxYyV7ke8HII);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button:hover{
+    transition: background-color 0.5s linear;
+    background-color: blueviolet;
+    
+}
+button{
+    transition: background-color 0.5s linear;
+    background-color: royalblue;
+}
+li{
+    background : rgba(112, 139, 207, 0.2);
+    
+    
+
+}
